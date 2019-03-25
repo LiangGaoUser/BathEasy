@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="whichbathroom">
+        <item>一号澡堂</item>
+        <item>二号澡堂</item>
+        <item>三号澡堂</item>
+        <item>四号澡堂</item>
+    </string-array>
+</resources>

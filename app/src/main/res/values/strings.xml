@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BathEasy</string>
+    <!--个人信息字符串-->
+    <string name="my_name">jack</string>
+    <string name="my_sex">男</string>
+    <string name="my_phone">13895959595</string>
+    <string name="my_school">武汉理工大学</string>
+
+</resources>
