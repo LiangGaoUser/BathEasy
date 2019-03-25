@@ -6,7 +6,7 @@ import cn.bmob.v3.datatype.BmobFile;
 public class User extends BmobObject {
     private String telephone;
     private String password;
-    private BmobFile picture;
+    private BmobFile  picture;
    // private String sex;
     public String getTelephone(){return telephone;}
     public void setTelephone(String telephone){this.telephone=telephone;}
